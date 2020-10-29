@@ -1,0 +1,5 @@
+sol*.mat
+.DS_Store
+*~
+slurm-*.out
+*.png

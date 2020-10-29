@@ -1,0 +1,2 @@
+*.mat filter=lfs diff=lfs merge=lfs -text
+PDE_IP3com_Cluster_LatestFFR/*.mat filter=lfs diff=lfs merge=lfs -text
